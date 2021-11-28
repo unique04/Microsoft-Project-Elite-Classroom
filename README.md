@@ -3,7 +3,7 @@
 A web-based classroom application that allows instructors to add courses with lessons, while students can enroll in these courses and track their progress. - developed using React, Node, Express and MongoDB.
 
 
-### [Live Demo](https://www.powtoon.com/c/dJCkDIzrMET/1/m) 
+### [Live Demo](https://drive.google.com/file/d/1CPFnXUGrZ6GcxXjbG5EyL9pVs9YONBfd/view?usp=sharing) 
 
 #### What you need to run this code
 1. Node 
